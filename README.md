@@ -34,7 +34,7 @@ You can also search for music using the search feature at the top of every page.
 
 ![](https://i.imgur.com/JX2XiJ8.png)
 
-## Favourites
+## Favorites
 
 You can also add music too favourites and access them in facourites tab in My Songs. Just click on star(:star:) to add to favourites.
 
